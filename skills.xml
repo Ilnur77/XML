@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<skills>
+<tools>
+<terminal_linux>basic coomands</terminal_linux>
+<git>repository management</git>
+<postman>testing api</postman>
+<http>methods,response codes,structure of HTTP requests</http>
+<charles_fiddler>interseption of web traffic</charles_fiddler>
+<browser_dev_tools>chrome,firefox</browser_dev_tools>
+</tools>
+</skills>
+	
+
